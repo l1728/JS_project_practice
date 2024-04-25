@@ -1,11 +1,11 @@
 {
-  "name": "JS_project_practice",
+  "name": "js_project_practice",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/JS_project_practice/",
+    "build": "vite build --base=/js_project_practice/",
     "preview": "vite preview"
   },
   "devDependencies": {
